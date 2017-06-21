@@ -12,20 +12,20 @@ $ bash sudo make install
 # Compilar 
 Execute o comando no terminal:
 
-	```bash
-	$ bash make compile
-	```
+```bash
+$ bash make compile
+```
 
 # Executar um teste de uso 
 Execute o comando no terminal:
 
-	```bash
-	$ bash make run
-	```
+```bash
+$ bash make run
+```
 
 # Limpar diretório
 Execute o comando no terminal:
 
-	```bash
-	$ bash make clean
-	```
+```bash
+$ bash make clean
+```
