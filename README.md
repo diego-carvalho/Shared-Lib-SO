@@ -5,9 +5,9 @@ libSO é uma biblioteca compartilhada escrita na linguagem C, contém quatro fun
 # Instalação:
 Execute o comando no terminal:
 
-	```bash
-	$ bash sudo make install
-	```
+```bash
+$ bash sudo make install
+```
 
 # Compilar 
 Execute o comando no terminal:
